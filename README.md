@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreb3457&label=Profile%20views&color=0e75b6&style=flat" alt="emreb3457" /> </p>
 
-- 🖥️ See my portfolio at **emrebaskaya.netlify.app**
+- 🖥️ See my portfolio at **https://emrebaskaya.netlify.app**
 
 - 🤝 I'm open to collaborating on **React,Node js projects.**
 
